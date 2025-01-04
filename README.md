@@ -11,7 +11,7 @@
  <p>     </p>
  
 <b>🖥️Tech:</b>
-<li>Frameworks and Tools: SwiftUI, Github, Xcode, Visual Studio</li>
+<li>Frameworks and Tools: React, SwiftUI, Github, Xcode, Visual Studio</li>
 <li>Languages: Python, Java, HTML, CSS</li>
 <p>    </p>
 
